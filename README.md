@@ -7,4 +7,4 @@
 - 💬 Ask me about **Android development, documentation or DSA**
 - 📫 How to reach me: [Mail](mailto:chaytanyas44@gmail.com), [LinkedIn](https://www.linkedin.com/in/chaytanya-sinha-4bb41187/).
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: I am a Competetive Programmer too.
+- ⚡ Fun fact: I am a Competitive Programmer too.
