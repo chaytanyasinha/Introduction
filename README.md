@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/rahul799/rahul799/master/Hi.gif" alt="alt text" width="100" height="100" />
 
-### Hey, I am Chaytanya
+### I am Chaytanya
 
 - 🔭 I’m currently working as SDE intern@Alibaba Cloud
 - 🌱 I’m currently learning flutter and ML
