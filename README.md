@@ -1,9 +1,30 @@
-<img src="https://raw.githubusercontent.com/rahul799/rahul799/master/Hi.gif" alt="alt text" width="100" height="100" />
+### Welcome to Chaytanya's Profile 👋
 
-### I am Chaytanya
+<a href="chaytanyas4@gmail.com">
+  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://leetcode.com/chaytanyasinha/">
+  <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
+</a>
+<a href="https://www.codechef.com/users/chaytanya">
+  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codechef.svg" />
+</a>
+<a href="https://www.linkedin.com/in/chaytanya-sinha-4bb41187/">
+  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working as SDE intern@Alibaba Cloud
-- 🌱 I’m currently learning flutter and ML
-- 💬 Ask me about **Android development, documentation or DSA**
-- 📫 How to reach me: [Mail](mailto:chaytanyas44@gmail.com), [LinkedIn](https://www.linkedin.com/in/chaytanya-sinha-4bb41187/).
-- ⚡ Fun fact: I am a Competitive Programmer too.
+
+<br/>
+<br/>
+
+Hi, I'm Chaytanya Sinha 😉, a budding sofware developer from India IN. I'm an open-source professional and android Developer. Currently, I'm working with Nacos.
+
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+
+**Current Status Quo**
+
+- 🎓 I am an undergrad at DSI Bangalore.<br>
+- 💻 I’m currently working SDE intern at Alibaba Cloud.<br>
+- 🌱 I’m learning TypeScripts,Dart and Python now.<br>
+- ⭐️ My research interests are CLoud Computing,Blockchain Systems, Deep Reinforcement Learning, etc.<br>
+- 📭 Please send me [an email](chaytanyas4@gmail.com) to reach me.<br>
