@@ -3,9 +3,6 @@
 <a href="chaytanyas4@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://leetcode.com/chaytanyasinha/">
-  <img align="left" alt="LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/leetcode.svg" />
-</a>
 <a href="https://www.codechef.com/users/chaytanya">
   <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codechef.svg" />
 </a>
@@ -24,7 +21,7 @@ Hi, I'm Chaytanya Sinha 😉, a budding software developer from India IN. I'm an
 **Current Status**
 
 - 🎓 I am an undergrad at DSI Bangalore.<br>
-- 💻 I’m currently working SDE intern at Alibaba Cloud.<br>
+- 💻 I’m currently working as SDE intern at Alibaba Cloud.<br>
 - 🌱 I’m learning TypeScripts,Dart and Python now.<br>
 - ⭐️ My research interests are Cloud Computing,Blockchain Systems, Deep Reinforcement Learning, etc.<br>
 - 📭 Please send me [an email](chaytanyas4@gmail.com) to reach me.<br>
