@@ -21,7 +21,7 @@ Hi, I'm Chaytanya Sinha 😉, a budding software developer from India IN. I'm an
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
-**Current Status Quo**
+**Current Status**
 
 - 🎓 I am an undergrad at DSI Bangalore.<br>
 - 💻 I’m currently working SDE intern at Alibaba Cloud.<br>
