@@ -22,6 +22,6 @@ Hi, I'm Chaytanya Sinha 😉, a budding software developer from India IN. I'm an
 
 - 🎓 I am an undergrad at DSI Bangalore.<br>
 - 💻 I’m currently working as SWE intern at Alibaba Cloud.<br>
-- 🌱 I’m learning TypeScripts,Dart and Python now.<br>
+- 🌱 I’m learning Ruby,Dart and Python now.<br>
 - ⭐️ My research interests are Cloud Computing,Blockchain Systems, Deep Reinforcement Learning, etc.<br>
 - 📭 Please send me [an email](chaytanyas4@gmail.com) to reach me.<br>
