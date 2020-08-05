@@ -25,3 +25,6 @@ Hi, I'm Chaytanya Sinha 😉, a budding software developer from India IN. I'm an
 - 🌱 I’m learning Ruby,Dart and Python now.<br>
 - ⭐️ My research interests are Cloud Computing,Blockchain Systems, Deep Reinforcement Learning, etc.<br>
 - 📭 Please send me [an email](chaytanyas4@gmail.com) to reach me.<br>
+
+![Chaytanya's github stats](https://github-readme-stats.vercel.app/api?username=chaytanyasinha&show_icons=true&hide_border=true)
+
