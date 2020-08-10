@@ -16,7 +16,7 @@
 
 Hi, I'm Chaytanya Sinha 😉, a budding software developer from India IN. I'm an open-source professional and android Developer. Currently, I'm working with Nacos.
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://miro.medium.com/max/875/1*Urc28sbnORGOW5oyohQ06g.gif" />
 
 **Current Status**
 
