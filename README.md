@@ -9,6 +9,11 @@
 <a href="https://www.linkedin.com/in/chaytanya-sinha-4bb41187/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
 </a>
+<a href="https://medium.com/@chaytanyas44">
+  <img align="left" alt="Medium" width="22px" src="https://cdns.iconmonstr.com/wp-content/assets/preview/2018/240/iconmonstr-medium-1.png" />
+</a>
+
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=chaytanyasinha.chaytanyasinha)
 
