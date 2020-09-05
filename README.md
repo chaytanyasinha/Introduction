@@ -31,6 +31,8 @@ Hi, I'm Chaytanya Sinha 😉, a budding software developer from India IN. I'm an
 - 🌱 I’m learning Ruby,Dart and Python now.<br>
 - ⭐️ My research interests are Cloud Computing,Blockchain Systems, Deep Reinforcement Learning, etc.<br>
 - 📭 Please send me [an email](chaytanyas4@gmail.com) to reach me.<br>
+- 😄 Pronouns: He / Him / Bro / Dude.
+- ⚡ Fun fact: Jack of All trades , master of pun 😂.
 
 
 **Languages and Tools:**  
