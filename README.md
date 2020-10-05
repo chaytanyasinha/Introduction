@@ -1,4 +1,4 @@
-### Welcome to Chaytanya's Profile 👋
+## Welcome to Chaytanya's Profile 👋
 
 <a href="chaytanyas4@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
