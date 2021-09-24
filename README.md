@@ -3,8 +3,8 @@
 <a href="chaytanyas4@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-<a href="https://www.codechef.com/users/chaytanya">
-  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/codechef.svg" />
+<a href="https://twitter.com/chaytanyasinha">
+  <img align="left" alt="Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/chaytanya-sinha-4bb41187/">
   <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/linkedin.svg" />
